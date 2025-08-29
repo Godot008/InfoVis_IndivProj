@@ -24,7 +24,7 @@ The complete directory structure is as follows:
 
 ```bash
 infovis_indivproj/
-        ├─ modelling_project_work.ipynb      # Project source file (Jupyter notebook format)
+        ├─ InfoVis_project_work.ipynb      # Project source file (Jupyter notebook format)
         └─ README.md
 ```
 
