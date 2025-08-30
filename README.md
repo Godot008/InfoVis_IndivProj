@@ -25,6 +25,7 @@ The complete directory structure is as follows:
 ```bash
 infovis_indivproj/
         ├─ InfoVis_project_work.ipynb      # Project source file (Jupyter notebook format)
+        ├─ LICENSE                         # This project employs a custom licence; for details, see LICENCE
         └─ README.md
 ```
 
